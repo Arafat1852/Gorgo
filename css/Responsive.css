@@ -1,0 +1,18 @@
+/*##Device = Tablets, Ipads (portrait)*/
+@media (min-width: 768px) and (max-width: 1024px) {
+.logo{padding-top: 3px !important;margin-left: 35px !important;}
+.menu{width: 50% !important;}  
+.menu ul li a{font-weight: 500 !important;font-size: 20px !important;}
+.left{width: 45% !important;padding-left: 50px !important;}
+.right img{margin-left: 35px !important;}
+.text h1{font-weight: bold !important;font-size: 38px !important;}
+.text p{font-size: 24px !important;padding-top: 10px !important;padding-bottom: 10px !important;}
+.total-view{width: 115% !important;}
+.img{margin: 0px 5px !important;}
+.simple-1 h1{font-size: 38px !important;}
+.simple-1 p{font-size: 24px !important;margin-top: 15px !important;}
+.box{margin-right: 20px !important;}
+.black{margin-left: 25px !important;}
+.foot{width: 116% !important;}
+.done{padding-left: 20px !important;}
+}
